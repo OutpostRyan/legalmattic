@@ -1,41 +1,53 @@
 Terms of Service
 ================
 
-_Last Updated: January 25, 2021_
+_Last Updated: March 28, 2021_
 
 ## The Gist
-We (the [folks at Automattic](http://automattic.com/about/)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
+We (the [folks at Outpost](http://outpost.pub)) are on a mission to help indie publishers thrive and do so without making billionaires into trillionaires. 
+
+Our paid service is designed to give you as much control and ownership over your publication as possible and encourage you to use the editorial tools freely. However, since we power your site, we ask you to be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site or get linked to from your site (things like spam, viruses, or hate content).
+
+We love helping indie publishers, from multi-person publications knocking out daily news stories to love-of-labor personal sites. We provide high-quality service to membership-driven publishers, and we want to work with quality publications of all stripes.
+
+But there are some kinds of publications we have no interest in supporting.
+
+Here's a list of the kinds of sites banned from using Outpost: Scraper sites, automated blogs, SEO blogs that are focussed on manipulating Google, affiliate marketing blogs promoting get-rich schemes or unproven health-supplements, and sites promoting pirated intellectual property or traffic in stolen passwords. 
+
+Honestly, Outpost's not going to be great for those kinds of sites and there's plenty of automated services with trashy ads that are more suited to that kind of publishing.
+
+We also have no interest in working with publishers that dox people, direct hate or derision towards marginalized groups, encourage or subtly encourage brigading private individuals and other publishers, or enjoy punching down.
+
+Outpost's founder is a former journalist, and we encourage those who dig up dirt, challenge the powerful, look to change the world for better, and make good trouble. 
+
+But we've got a no-asshole policy and a general conduct policy (see below). Life's too short to work with assholes, and since there's lots of other ways to run on an online publishing company, assholes can go someplace else.
+
+We also know that there are folks who like to read a terms of service and try to stay just this side of the line on it, while still violating its spirit. Every forum moderator knows the type. That's why we have a general conduct rule; if you're that kind of person, you'll get booted summarily. 
+
+We have no interest in kicking anyone off Outpost. Outpost's founder started a publisher recommendation company 10 years ago and has never had to kick a site off, despite having very similar terms of service. The goal here is to be very clear about who's a good fit and who isn't. If you like to play footsie with "race" science, think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in white grievance politics/alt-right light fascism, find another service. There's plenty of them. This won't be a good home for you.
+
 These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. **These Terms include a mandatory arbitration provision in Section 16. If you don’t agree to these Terms, don’t use our services.**
-We’ve made these Terms available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Automattic somewhere on your website. You can grab a copy of these Terms and other legal documents on [GitHub](https://github.com/Automattic/legalmattic).
+We’ve built these Terms using the model created by the fine folks at Automattic, best known for making WordPress, and this version, like theirs, is available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to the original folks, [Automattic](https://automattic.com) somewhere on your website. You can grab a copy of their Terms and other legal documents on [GitHub](https://github.com/Automattic/legalmattic).
 ## Terms of Service
-These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), and [MailPoet](http://mailpoet.com) (collectively, “Services”).
-These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
-For some of Automattic’s other products, services, and programs, such as [Akismet](https://akismet.com/), [Crowdsignal](https://crowdsignal.com/), [Newspack](https://newspack.pub/), [WordPress.com VIP](https://wpvip.com/), our [Affiliate Program](https://affiliate.wordpress.com/), and our [Refer-A-Friend Program](https://wordpress.com/refer-a-friend-program-terms-of-service/), additional or separate terms may apply.
+These Terms govern your access to and use of the products and services we provide through or for [Outpost](https://outpost.pub) (collectively, “Services”).
+These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create via Outpost. Please note though that the operators of those websites may also have their own separate terms of use.
 Please read these Terms carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to be bound by all of the Terms and all other operating rules, policies, and procedures that we may publish via the Services from time to time (collectively, the “Agreement”). You also agree that we may automatically change, update, or add on to our Services, and this Agreement will apply to any changes.
 ## 1. Who’s Who
 “You” means any individual or entity using our Services. If you use our Services on behalf of another person or entity, you represent and warrant that you’re authorized to accept the Agreement on that person’s or entity’s behalf, that by using using our Services you're accepting the Agreement on behalf of that person or entity, and that if you, or that person or entity, violates the Agreement, you and that person or entity agree to be responsible to us.
-Please see below to determine which entity your Agreement is with, which depends on where you reside and which Services you use. We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, Russia, and all countries located in Europe (including the UK and ROI).
-**All Automattic Services (except WooCommerce)**
 
-* If you reside outside of the Designated Countries: Automattic Inc.
-* If you reside in the Designated Countries: Aut O’Mattic A8C Ireland Ltd.
+**All Outpost Services **
 
-**WooCommerce Services**
-WooCommerce Services includes WooCommerce, WooCommerce Payments, WooCommerce Shipping, MailPoet, and any products or services purchased from WooCommerce.com.
+* Outpost Publishers Cooperative
 
-* If you reside outside of the Designated Countries: WooCommerce, Inc.
-* If you reside in the Designated Countries: WooCommerce Ireland Ltd.
-
-We refer to Automattic Inc., Aut O’Mattic A8C Ireland Ltd., WooCommerce, Inc., and WooCommerce Ireland Ltd. collectively as “Automattic” or “we” throughout these Terms.
 ## 2. Your Account
 When using our Services requires an account, you agree to provide us with complete and accurate information and to keep the information current so that we can communicate with you about your account. We may need to send you emails about notable updates (like changes to our Terms of Service or Privacy Policy), or to let you know about legal inquiries or complaints we receive about the ways you use our Services so you can make informed choices in response.
 We may limit your access to our Services until we’re able to verify your account information, like your email address.
-When you create a WordPress.com account, we consider that to be an inquiry about our products and services, which means that we may also contact you to share more details about what we have to offer (i.e., marketing). Don’t worry — if you aren’t interested, you can opt out of the marketing communications, whether it’s an email, phone call, or text message.
+When you create a Outpost account (not including an account on an Outpost publisher's site), we consider that to be an inquiry about our products and services, which means that we may also contact you to share more details about what we have to offer (i.e., marketing). Don’t worry — if you aren’t interested, you can opt out of the marketing communications, whether it’s an email, phone call, or text message.
 You’re solely responsible and liable for all activity under your account. You’re also fully responsible for maintaining the security of your account (which includes keeping your password secure). We’re not liable for any acts or omissions by you, including any damages of any kind incurred as a result of your acts or omissions. If you get fired because of a blog post you write about your boss, that’s on you.
 Don’t share or misuse your access credentials. And notify us immediately of any unauthorized uses of your account, store, or website, or of any other breach of security. If we believe your account has been compromised, we may suspend or disable it.
-If you'd like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://automattic.com/privacy/).
+If you'd like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://outpost.pub/privacy/).
 ## 3. Minimum Age Requirements
-Our Services are not directed to children. You’re not allowed to access or use our Services if you’re under the age of 13 (or 16 in Europe). If you register as a user or otherwise use our Services, you represent that you’re at least 13 (or 16 in Europe). You may use our Services only if you can legally form a binding contract with us. In other words, if you’re under 18 years of age (or the legal age of majority where you live), you can only use our Services under the supervision of a parent or legal guardian who agrees to the Agreement.
+Our Services are not directed to children. You’re not allowed to access or use our Services if you’re under the age of 13 (or 16 in Europe). If you register as a user or otherwise use our Services or our publisher's sites published via Outpost, you represent that you’re at least 13 (or 16 in Europe). You may use our Services only if you can legally form a binding contract with us. In other words, if you’re under 18 years of age (or the legal age of majority where you live), you can only use our Services under the supervision of a parent or legal guardian who agrees to the Agreement.
 ## 4. Responsibility of Visitors and Users
 We haven’t reviewed, and can’t review, all of the content (like text, photo, video, audio, code, computer software, items for sale, and other materials) posted to or made available through our Services by users or anyone else (“Content”) or on websites that link to, or are linked from, our Services. We’re not responsible for any use or effects of Content or third-party websites. So, for example:
 
@@ -49,35 +61,33 @@ We haven’t reviewed, and can’t review, all of the content (like text, photo,
 
 Please note that additional third-party terms and conditions may apply to Content you download, copy, purchase, or use.
 ## 5. Fees, Payment, and Renewal
-### a. Automattic Fees
-**Fees for Paid Services.** Some of our Services are offered for a fee, like [WordPress.com plans](https://wordpress.com/pricing/), [WooCommerce themes or extensions](https://woocommerce.com/), [Jetpack plans](https://jetpack.com/pricing/), [Jetpack CRM bundles](https://jetpackcrm.com/pricing/), [VaultPress plans](https://vaultpress.com/plans/), [Happy Tools](https://happy.tools), [MailPoet plans](https://account.mailpoet.com/), the [Payments feature](https://en.support.wordpress.com/recurring-payments-button/), [WooCommerce Payments](https://docs.woocommerce.com/document/payments/faq/fees/), [Email](https://wordpress.com/support/add-email/adding-email-powered-by-titan-to-your-site/), and [domain registration and renewal](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/) (collectively, “Paid Services”). By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be one-time fees, recurring fees, or revenue-based fees. For recurring fees, we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://en.support.wordpress.com/recurring-payments-button/#related-fees) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
+### a. Outpost Fees
+**Fees for Paid Services.** Some of our Services are offered for a fee, like [Outpost](https://outpost.pub). By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be one-time fees, recurring fees, or revenue-based fees. For recurring fees, we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. 
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all fees do not include applicable federal, provincial, state, local or other governmental sales, value-added, goods and services, harmonized or other taxes, fees, or charges (“Taxes”). You’re responsible for paying all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we’re obligated to pay or collect Taxes on the fees you’ve paid or will pay, you’re responsible for those Taxes, and we may collect payment.
 **Payment.** If your payment fails, Paid Services are otherwise not paid for or paid for on time (for example, if you contact your bank or credit card company to decline or reverse the charge of fees for Paid Services), or we suspect a payment is fraudulent, we may immediately cancel or revoke your access to Paid Services without notice to you.
-**Automatic Renewal.** To ensure uninterrupted service, recurring Paid Services are automatically renewed. This means that unless you cancel a Paid Service before the end of the applicable subscription period, it will automatically renew, and you authorize us to use any payment mechanism we have on record for you, like credit cards or PayPal, or invoice you (in which case payment is due within 15 days) to collect the then-applicable subscription fee as well as any Taxes. By default, your Paid Services will be renewed for the same interval as your original subscription period, so for example, if you purchase a one-year subscription to a WordPress.com plan, you’ll be charged each year for access for another 12-month period. We may charge your account up to one month before the end of the subscription period to make sure pesky billing issues don’t inadvertently disrupt your access to our Services. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
-You can view your renewal date(s) and manage subscriptions for WordPress.com Paid Services by visiting your [Manage Purchases page](https://wordpress.com/me/purchases). For more information about how WordPress.com subscriptions work, please see our [Manage Purchases, Renewals & Cancellations support page](https://en.support.wordpress.com/manage-purchases/).
-You can view your renewal date(s) and manage subscriptions for WooCommerce Paid Services by visiting your [My Subscriptions page](http://woocommerce.com/my-account/my-subscriptions/). For more information about how WooCommerce subscriptions work, please see our [FAQs about WooCommerce.com subscriptions](https://docs.woocommerce.com/document/frequently-asked-questions/#woocommercecom-subscription-questions).
-To review renewal dates and manage subscriptions for any other Paid Services, please consult the respective Service’s website or contact the support team.
-You’ll need to check your email (including in spam or other filters) for any reminder emails we might send you before your Paid Services renew.
-**Cancelling Automatic Renewal.** You can manage and cancel your Paid Services at the respective Service’s website. For example, you can manage all of your WordPress.com plans through your WordPress.com [Manage Purchases page](https://wordpress.com/me/purchases). To cancel a WordPress.com plan, go to your [Manage Purchases page](https://wordpress.com/me/purchases), click on the plan you want to cancel, then follow the instructions to cancel the subscription or turn off auto-renew.
-For WooCommerce Paid Services, you can turn off auto-renew for each active subscription at your [My Subscriptions page](http://woocommerce.com/my-account/my-subscriptions/).
-If auto-renew is successfully turned off, you’ll see the date on which your subscription expires. If you have multiple Paid Services to cancel, repeat this process for each subscription.
-**Fees and Changes.** We may change our fees at any time in accordance with these Terms and requirements under applicable law. This means that we may change our fees going forward, start charging fees for Services that were previously free, or remove or update features or functionality that were previously included in the fees. If you don’t agree with the changes, you must cancel your Paid Service.
-**No-Show Policy.** We may have a “no-show policy” for some Paid Services that require your participation (for example, our [Quick Start sessions](https://en.support.wordpress.com/concierge-support/#purchasing-a-session)). For instance, this may mean that if you don’t show up or are late for a scheduled session, you’ll still be charged and won’t be entitled to a refund.
+**Automatic Renewal.** To ensure uninterrupted service, recurring Paid Services are automatically renewed. This means that unless you cancel a Paid Service before the end of the applicable subscription period, it will automatically renew, and you authorize us to use any payment mechanism we have on record for you, like credit cards or PayPal, or invoice you (in which case payment is due within 15 days) to collect the then-applicable subscription fee as well as any Taxes. By default, your Paid Services will be renewed for the same interval as your original subscription period, so for example, if you purchase a one-year subscription to an Outpost plan, you’ll be charged each year for access for another 12-month period. We may charge your account up to one month before the end of the subscription period to make sure pesky billing issues don’t inadvertently disrupt your access to our Services. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
+If you are a paid subscriver to an Outpost publication, your payment to the publication will be made on a regular basis, depending on whether that subscription is monthly, annual or some other time interval. If you’ve purchased access to multiple services, you may have multiple renewal dates. You can cancel renewal of subscriptions on each individual publisher's site. Your subscription relationship is with the publisher, not Outpost, and therefore, you will need to cancel/renew/etc your subscriptions with the publication, not Outpost.
+
+You can view your renewal date(s) and manage subscriptions for an Outpost-powered sites by visiting the site and logging in with the email address you provided to the the site.
+
+**Fees and Changes.** We may change our fees at any time in accordance with these Terms and requirements under applicable law and in accordance with any contract signed with an publisher. This means that we may change our fees going forward, start charging fees for Services that were previously free, or remove or update features or functionality that were previously included in the fees. If you don’t agree with the changes, you must cancel your Paid Service.
+**No-Show Policy.** We may have a “no-show policy” for some Paid Services that require your participation. For instance, this may mean that if you don’t show up or are late for a scheduled session, you’ll still be charged and won’t be entitled to a refund.
 **Refunds.** We may have a refund policy for some of our Paid Services, and we’ll also provide refunds if required by law. In all other cases, there are no refunds and all payments are final.
 ### b. Fees Collected by Website Owners
 **Fees Paid to Websites or Website Owners.** Website owners can sell items (goods, content, services, etc.), offer subscriptions for their websites at specific price points and intervals, or simply collect payments. We’re not involved in a website’s subscription details or store operations (including the quality, timing, pricing, or legality of what may or may not be included in exchange for payment, or any goods or services purchased). If you buy items or subscriptions from a website, you’re making the purchase directly from the website owner, and they’re solely responsible for the items sold. Please contact the website owner if you have any questions or complaints.
-**Automatic Renewal.** Any recurring payments you make to a website owner (like a [website subscription](https://en.support.wordpress.com/recurring-payments/)) are automatically renewed. This means that unless you or the website owner cancels your website subscription before the end of the applicable renewal period, it will automatically renew. Your recurring payments are renewed for the same interval of time as your original subscription period. For example, if you select an annually renewing website subscription, you’ll be automatically charged by the website owner once each year. You can view the renewal dates for your website subscriptions on your [Other Site Payments page](https://wordpress.com/me/purchases/other).
-**Cancelling Automatic Renewal of Website Subscriptions.** You can manage and cancel your website subscriptions as described [here](https://wordpress.com/support/recurring-payments/#how-do-i-cancel-a-payment) at your [Other Site Payments page](https://wordpress.com/me/purchases/other). Click on the payment you want to cancel and follow the instructions. Repeat this process for each website subscription you want to cancel.
-**Refunds.** We’re not responsible for refunding fees paid to a website owner because those transactions are between website owners and their users. If you’d like to request a refund, please contact the website owner. If you have a complaint regarding a website owner, you can [contact us](https://en.wordpress.com/abuse/).
+**Automatic Renewal.** Any recurring payments you make to a website owner are automatically renewed. This means that unless you or the website owner cancels your website subscription before the end of the applicable renewal period, it will automatically renew. Your recurring payments are renewed for the same interval of time as your original subscription period. For example, if you select an annually renewing website subscription, you’ll be automatically charged by the website owner once each year.
+**Cancelling Automatic Renewal of Website Subscriptions.** You can manage and cancel your website subscriptions by logging into that site with the email you used to register. In the account panel, click on the payment you want to cancel and follow the instructions. Repeat this process for each website subscription you want to cancel.
+**Refunds.** We’re not responsible for refunding fees paid to a website owner because those transactions are between website owners and their users. If you’d like to request a refund, please contact the website owner. If you have a complaint regarding a website owner, you can [contact us](https://outpost.pub).
 ## 6. Feedback
 We love hearing from you and are always looking to improve our Services. When you share comments, ideas, or feedback with us, you agree that we're free to use them without any restriction or compensation to you.
 ## 7. General Representation and Warranty
-Our mission is to make the web a better place, and our Services are designed to give you control and ownership over your websites. We encourage you to express yourself freely, subject to a few requirements. In particular, you represent and warrant that your use of our Services:
+
+### a.Our mission is to help indie publishers thrive, and our Services are designed to give you control and ownership over your websites. We encourage you to express yourself freely, subject to a few requirements. In particular, you represent and warrant that your use of our Services:
 
 * Will be in strict accordance with the Agreement;
 * Will comply with all applicable laws and regulations (including, without limitation, all applicable laws regarding online conduct and acceptable content, privacy, data protection, the transmission of technical data exported from the United States or the country in which you reside, the use or provision of financial services, notification and consumer protection, unfair competition, and false advertising);
 * Will not be for any unlawful purposes, to publish illegal content, or in furtherance of illegal activities;
-* Will not infringe or misappropriate the intellectual property rights of Automattic or any third party;
+* Will not infringe or misappropriate the intellectual property rights of Outpost or any third party;
 * Will not overburden or interfere with our systems or impose an unreasonable or disproportionately large load on our infrastructure, as determined by us in our sole discretion;
 * Will not disclose the personal information of others;
 * Will not be used to send spam or bulk unsolicited messages;
@@ -85,6 +95,28 @@ Our mission is to make the web a better place, and our Services are designed to 
 * Will not be used to create, distribute, or enable material that is, facilitates, or operates in conjunction with, malware, spyware, adware, or other malicious programs or code;
 * Will not involve reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for the Services or any related technology that is not open source; and
 * Will not involve renting, leasing, loaning, selling, or reselling the Services or related data without our consent.
+* Does not direct hate at individuals or groups based on 
+* Will not involve pornography (Outpost does not have the financial/legal capacity at this time to handle the record-keeping requirements needed)
+* Won't be used to threaten violence against individuals or groups.
+* Won't be used to glorify violence
+* Won't involve child sexual exploitation (if you try this, we'll do all we can to get you prosecuted)
+* Won't be used to threaten, harass, denigrate or encourage violatence against people on the basis of ethnicity, gender, gender identity, age, disability, disease, race, caste or national origin.
+* Won't be used to promote or encourage suicide or self-harm, inluding bulimia and anorexia
+* Won't be used to post gory media that lack news value - and won't put those in header images 
+
+
+
+### b.* General conduct policy:
+The rules above are intended to give sites a good sense of what's appropriate on Outpost-powered sites, and what is not. They are not rules to be gamed. Outpost also has a general conduct rule: if your site engages in unjust or unreasonable conduct - even if it does not violate one of the above rules, Outpost reserves the right to terminate our service. Outpost is the sole arbiter of what violates this standard or the rules above.
+
+### c.
+
+
+
+STOPPED HERE - ADD stuff on patent trolls, data portability
+
+
+
 
 ## 8. Specific Service Terms
 ### a. WordPress.com Websites and Accounts

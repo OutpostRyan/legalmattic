@@ -80,9 +80,9 @@ You can view your renewal date(s) and manage subscriptions for an Outpost-powere
 **Refunds.** We’re not responsible for refunding fees paid to a website owner because those transactions are between website owners and their users. If you’d like to request a refund, please contact the website owner. If you have a complaint regarding a website owner, you can [contact us](https://outpost.pub).
 ## 6. Feedback
 We love hearing from you and are always looking to improve our Services. When you share comments, ideas, or feedback with us, you agree that we're free to use them without any restriction or compensation to you.
-## 7. General Representation and Warranty
+## 7. General Representation and Warranty (e.g. your responsibilities and prohibited content/activity)
 
-### a.Our mission is to help indie publishers thrive, and our Services are designed to give you control and ownership over your websites. We encourage you to express yourself freely, subject to a few requirements. In particular, you represent and warrant that your use of our Services:
+### a. Our mission is to help indie publishers thrive, and our Services are designed to give you control and ownership over your websites. We encourage you to express yourself freely, subject to a few requirements. In particular, you represent and warrant that your use of our Services:
 
 * Will be in strict accordance with the Agreement;
 * Will comply with all applicable laws and regulations (including, without limitation, all applicable laws regarding online conduct and acceptable content, privacy, data protection, the transmission of technical data exported from the United States or the country in which you reside, the use or provision of financial services, notification and consumer protection, unfair competition, and false advertising);
@@ -93,33 +93,24 @@ We love hearing from you and are always looking to improve our Services. When yo
 * Will not be used to send spam or bulk unsolicited messages;
 * Will not interfere with, disrupt, or attack any service or network;
 * Will not be used to create, distribute, or enable material that is, facilitates, or operates in conjunction with, malware, spyware, adware, or other malicious programs or code;
-* Will not involve reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for the Services or any related technology that is not open source; and
-* Will not involve renting, leasing, loaning, selling, or reselling the Services or related data without our consent.
-* Does not direct hate at individuals or groups based on 
-* Will not involve pornography (Outpost does not have the financial/legal capacity at this time to handle the record-keeping requirements needed)
-* Won't be used to threaten violence against individuals or groups.
-* Won't be used to glorify violence
-* Won't involve child sexual exploitation (if you try this, we'll do all we can to get you prosecuted)
-* Won't be used to threaten, harass, denigrate or encourage violatence against people on the basis of ethnicity, gender, gender identity, age, disability, disease, race, caste or national origin.
-* Won't be used to promote or encourage suicide or self-harm, inluding bulimia and anorexia
-* Won't be used to post gory media that lack news value - and won't put those in header images when they do have news value
+* Will not involve reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for the Services or any related technology that is not open source; 
+* Will not involve renting, leasing, loaning, selling, or reselling the Services or related data without our consent;
+* Will not involve pornography (Outpost does not have the financial/legal capacity at this time to handle the record-keeping requirements needed);
+* Won't be used to threaten violence against individuals or groups;
+* Won't be used to glorify violence;
+* Won't involve child sexual exploitation (if you try this, we'll do all we can to get you prosecuted);
+* Won't be used to threaten, harass, denigrate or encourage violence against people on the basis of ethnicity, gender, gender identity, age, disability, disease, race, caste or national origin;
+* Won't be used to promote or encourage suicide or self-harm, inluding bulimia and anorexia; and
+* Won't be used to post gory media that lack news value - and won't put those in header images when they do have news value.
 
 
 
-### b.* General conduct policy:
+### b.* General Conduct Policy:
 The rules above are intended to give sites a good sense of what's appropriate on Outpost-powered sites, and what is not. They are not rules to be gamed. Outpost also has a general conduct rule: if your site engages in unjust or unreasonable conduct - even if it does not violate one of the above rules, Outpost reserves the right to terminate our service. Outpost is the sole arbiter of what violates this standard or the rules above.
 
-### c.
 
-
-
-STOPPED HERE - ADD stuff on patent trolls, data portability
-
-
-
-
-## 8. Data Portablity
-### a. Your data is yours
+## 8. More Content Stuff
+**Data Portability**
 [Oupost.pub](https://outpost.pubh/) enables you to build a membership-driven media site. Your content and posts are yours, and we make it easy to export that in a format easily imported into other publishing tools. Your email list is yours, and if you want, we'll export that in an easy-to-use format. Your relationship to  subscribers that sign-up to support your site are also yours, and you can take that information and relationship with you. We'll also help transfer over your site analytics and if you like and to the extent possible, supporting services such as comments and content recommendations. Data analysis done by Outpost on your sites behalf may not be exportable.
 
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make publicly-posted and published-notification Content available to select third parties (to Google News as a news feed or to Mailgun to send emails to your subscribers, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services or to provide services.
@@ -128,16 +119,12 @@ STOPPED HERE - ADD stuff on patent trolls, data portability
 **Prohibited Uses.** Your Content and conduct must not violate the [WordPress.com User Guidelines](https://en.support.wordpress.com/user-guidelines/).
 **HTTPS.** We offer free HTTPS on all Oupost.pub-powered websites by default, including those using custom domains, via [Let’s Encrypt](https://letsencrypt.org/). By signing up and using a custom domain on WordPress.com, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
 
-**Attribution.** We may display attribution text or links in your website footer or toolbar, noting that your website is powered by Oupost.pub or attributing the creator of your theme, for example. For more details about these attributions, and under which circumstances (if any) you may alter or remove them, please see our [Footer Credit Options support page](https://wordpress.com/support/footer-credits/).
+**Attribution.** We may display attribution text or links in your website footer or toolbar, noting that your website is powered by Oupost.pub or attributing the creator of your theme, for example.
 **Email** We send emails and create mailboxes for you  associated with your Domain Name, using Mailgun.. Your use of email is subject to Mailgun’s policies, including Mailguns’s [Terms of Service](https://www.mailgun.com/terms/). Don't be a spammer. 
 **DNS Services.** We work with third-party Domain Name Service providers to provide domain name services, such as making sure your emails get sent from your domain and that your website loads. You'll need to change your website's DNS servers to point to the service we contract with. You remain responsible for paying for your domain name and making sure it does not expire, as we are not a domain name reseller.
 
 
-### b. Outside serices
-If you choose to add outside services to your website, you take on the responsibilities for what they do, that they do not interfere with Outpost and that they do not compromise your site.
-
-
-### c. Your relationship with your subscribers
+**Your Relationships with Your Subscribers**
 * We’re not involved in your relationships or transactions with any customer or potential customer.
 * You may only use outside Ecommerce Services for legitimate transactions with your customers.
 * You must accurately communicate transaction details; set expectations appropriately; and fulfill all promises, representations, or warranties you’ve made. For example, if you’d like to offer subscribers a new post each week for contributing to your site, but aren’t sure if you’ll be able to post that frequently, you should be clear that weekly posts are a goal and not a guarantee.
@@ -160,8 +147,7 @@ We may terminate your access to our Services or force refunds (where possible) t
 
 **Tax Calculations.** You’re responsible for payment of all applicable Taxes relating to your ecommerce and subscription activities and your use of Ecommerce Services. You must collect, report, and/or pay the correct amounts to the appropriate authorities if applicable, and if needed, tell your customers about any Taxes they may be required to pay and issue appropriate invoices. While some Ecommerce Services allow you to include sales taxes in transactions — for example, tax calculations may be provided by TaxJar — you shouldn’t rely solely on these features. We work to keep our documents and tools up-to-date, but tax laws change rapidly; and we can’t guarantee that tax calculations you receive through or in connection with our Services are complete and accurate. Tax laws also differ from jurisdiction to jurisdiction and may be interpreted differently by different authorities. We recommend consulting with a tax professional for your specific tax situation to assess the tax rates you should charge.
 If we’re obligated to pay or collect Taxes on your ecommerce activities or your use of Ecommerce Services, you’re responsible for these Taxes, and we may collect payment for them from you.
-**Third-Party Services.** You may use third-party services, like [Stripe](https://stripe.com/) or [PayPal](https://www.paypal.com/) to collect payment or tips. As Outpost does not take a percentage of these payments, you are not limited in what third-party payment services you use. However, they may also charge you fees to use or access their services, and you are subject to each processors Terms of Service. We’re not involved in these relationships, but may facilitate transactions or communication. For example, we may, on your behalf, receive notices or forms relating to your Stripe account.
-Some of these third party services may be enabled by default, but you can disable them before launching your site if you don’t want to use them.
+**Third-Party Services.** You may use third-party services, like [Stripe](https://stripe.com/) or [PayPal](https://www.paypal.com/) to collect payment or tips. As Outpost does not take a percentage of these payments, you are not limited in what third-party payment services you use. However, they may also charge you fees to use or access their services, and you are subject to each processor's Terms of Service. We’re not involved in these relationships, but may facilitate transactions or communication. For example, we may, on your behalf, receive notices or forms relating to your Stripe account. Some of these third party services may be enabled by default, but you can disable them before launching your site if you don’t want to use them.
 
 ## 9. Copyright Infringement and DMCA Policy
 As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe any Content violates your copyright, please see our [Digital Millennium Copyright Act (“DMCA”) Policy](https:/outpost.pub/dmca-notice/) and send us a notice at dmcanotice@outpost.pub.
@@ -202,4 +188,4 @@ If you need a data processing agreement (DPA) with us for the GDPR requirements 
 These Terms were originally written in English (US). We may translate these terms into other languages, and in the event of a conflict between a translated version of these Terms and the English version, the English version will control.
 ## 22. Miscellaneous
 The Agreement (together with any other terms we provide that apply to any specific Service) constitutes the entire agreement between Outpost and you concerning our Services. If any part of the Agreement is unlawful, void, or unenforceable, that part is severable from the Agreement, and does not affect the validity or enforceability of the rest of the Agreement. A waiver by either party of any term or condition of the Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof.
-Outpost may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
+Outpost may assign its rights under the Agreement without condition (though may be constrained in its bylaws). You may only assign your rights under the Agreement with our prior written consent.

@@ -24,7 +24,15 @@ But we've got a no-asshole policy and a general conduct policy (see below). Life
 
 We also know that there are folks who like to read a terms of service and try to stay just this side of the line on it, while still violating its spirit. Every forum moderator knows the type. That's why we have a general conduct rule; if you're that kind of person, you'll get booted summarily. 
 
-We have no interest in kicking anyone off Outpost. Outpost's founder started a publisher recommendation company 10 years ago and has never had to kick a site off, despite having very similar terms of service. The goal here is to be very clear about who's a good fit and who isn't. If you like to play footsie with "race" science, think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in white grievance politics/alt-right light fascism, find another service. There's plenty of them. This won't be a good home for you.
+That said, we have no interest in kicking anyone off Outpost.
+
+Outpost's founder started a publisher recommendation company 10 years ago and has never had to kick a site off, despite having very similar terms of service. The goal here is to be very clear about who's a good fit and who isn't. If you like to play footsie with discredited "race" science, think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in white grievance politics/alt-right light fascism, find another service. There's plenty of them. This won't be a good home for you.
+
+If you see abusive content on an Outpost-powered site, please notify us with relevant details at abuse@outpost.pub.
+
+Please be aware, however, Outpost will not engage with or be swayed by bad faith attempts to silence Outpost publishers.  Outpost will, at its discretion, ignore such attempts or actively fight them. Outpost's founder is also a former journalist and editor, jobs that entail writing and defending writing that others don't like. 
+
+Outpost also has no toleratnce for those who threaten or harrass Outpost publishers. Outpost will use all technical and legal means necessary to protect our publishers from those who harass or threaten them. 
 
 These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. **These Terms include a mandatory arbitration provision in Section 16. If you don’t agree to these Terms, don’t use our services.**
 We’ve built these Terms using the model created by the fine folks at Automattic, best known for making WordPress, and this version, like theirs, is available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to the original folks, [Automattic](https://automattic.com) somewhere on your website. You can grab a copy of their Terms and other legal documents on [GitHub](https://github.com/Automattic/legalmattic).
@@ -96,12 +104,12 @@ We love hearing from you and are always looking to improve our Services. When yo
 * Will not involve reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for the Services or any related technology that is not open source; 
 * Will not involve renting, leasing, loaning, selling, or reselling the Services or related data without our consent;
 * Will not involve pornography (Outpost does not have the financial/legal capacity at this time to handle the record-keeping requirements needed);
-* Won't be used to threaten violence against individuals or groups;
-* Won't be used to glorify violence;
-* Won't involve child sexual exploitation (if you try this, we'll do all we can to get you prosecuted);
-* Won't be used to threaten, harass, denigrate or encourage violence against people on the basis of ethnicity, gender, gender identity, age, disability, disease, race, caste or national origin;
-* Won't be used to promote or encourage suicide or self-harm, inluding bulimia and anorexia; and
-* Won't be used to post gory media that lack news value - and won't put those in header images when they do have news value.
+* Will not be used to threaten violence against individuals or groups;
+* Will not be used to glorify violence;
+* WWill not involve child sexual exploitation (if you try this, we'll do all we can to get you prosecuted);
+* Will not be used to threaten, harass, denigrate or encourage violence against people on the basis of ethnicity, gender, gender identity, age, disability, disease, race, caste or national origin;
+* Will not be used to promote or encourage suicide or self-harm, inluding bulimia and anorexia; and
+* Will not be used to post gory media that lack news value - and won't put those in header images when they do have news value.
 
 
 
@@ -111,7 +119,7 @@ The rules above are intended to give sites a good sense of what's appropriate on
 
 ## 8. More Content Stuff
 **Data Portability**
-[Oupost.pub](https://outpost.pubh/) enables you to build a membership-driven media site. Your content and posts are yours, and we make it easy to export that in a format easily imported into other publishing tools. Your email list is yours, and if you want, we'll export that in an easy-to-use format. Your relationship to  subscribers that sign-up to support your site are also yours, and you can take that information and relationship with you. We'll also help transfer over your site analytics and if you like and to the extent possible, supporting services such as comments and content recommendations. Data analysis done by Outpost on your sites behalf may not be exportable.
+[Oupost.pub](https://outpost.pub/) enables you to build a membership-driven media site. Your content and posts are yours, and we make it easy to export that in a format easily imported into other publishing tools. Your email list is yours, and if you want, we'll export that in an easy-to-use format. Your relationship to  subscribers that sign-up to support your site are also yours, and you can take that information and relationship with you. We'll also help transfer over your site analytics and if you like and, to the extent possible, supporting services such as comments and content recommendations. Data analysis done by Outpost on your sites behalf may not be exportable.
 
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make publicly-posted and published-notification Content available to select third parties (to Google News as a news feed or to Mailgun to send emails to your subscribers, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services or to provide services.
 **Removing Content.** If you delete Content, we’ll use reasonable efforts to remove it from public view (or in the case of a private website, from view by the authorized visitors), but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.

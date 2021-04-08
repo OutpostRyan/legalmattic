@@ -4,37 +4,39 @@ Terms of Service
 _Last Updated: March 28, 2021_
 
 ## The Gist
-We (the [folks at Outpost](http://outpost.pub)) are on a mission to help indie publishers thrive and do so without making billionaires into trillionaires. 
+We (the [folks at Outpost](http://outpost.pub)) are on a mission to help indie publishers thrive, but without the compromises that come with having to please investors.
 
-Our paid service is designed to give you as much control and ownership over your publication as possible and encourage you to use the editorial tools freely. However, since we power your site, we ask you to be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site or are knowingly linked to from your site (things like spam, viruses, or hate content).
+Outpost is a paid service, designed to give you as much control and ownership over your publication as possible while providing excellent editorial tools.  However, since we power your site and/or editorial tools, we ask you to be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site, or are linked to from your site (things like spam, viruses, or hate content).
 
-We love helping indie publishers, from multi-person publications knocking out daily news stories to love-of-labor personal sites. We provide high-quality services to membership-driven publishers, and we want to work with quality publications of all stripes.
+We love helping indie publishers, from multi-person publications knocking out daily news stories to labor-of-love personal sites. We provide high quality service to membership-driven publishers, and we want to work with quality publications of most stripes.
 
 But there are some kinds of publications we have no interest in supporting.
 
-Here's a list of the kinds of sites banned from using Outpost: Scraper sites, automated blogs, SEO blogs that are focussed on manipulating Google, affiliate marketing blogs promoting get-rich schemes or unproven health-supplements, and sites promoting pirated intellectual property or traffic in stolen passwords. 
+Here's a list of the kinds of sites banned from using Outpost: Scraper sites, automated blogs, SEO blogs that are focussed on manipulating Google, affiliate marketing blogs promoting get-rich schemes or unproven health-supplements, and sites promoting pirated intellectual property or trafficking in stolen passwords. 
 
-Honestly, Outpost's not going to be great for those kinds of sites and there's plenty of automated services with trashy ads that are more suited to that kind of publishing.
+Honestly, Outpost's not going to be great for those kinds of sites anyway.
 
-We also have no interest in working with publishers that dox people, direct hate or derision towards marginalized groups, encourage or subtly encourage brigading private individuals and other publishers, or generally enjoy punching down.
+Outpost's founder is a former journalist, and we encourage those who dig up dirt, challenge the powerful, look to change the world for better, and make good trouble. We believe strongly in journalism, the First Amendment, and in writing that makes people reconsider their beliefs and that make them think. We're also a great home for those who just want to express themselves, or speak to their communities. 
 
-Outpost's founder is a former journalist and editor, and we encourage those who dig up dirt, challenge the powerful, look to change the world for better, and make good trouble. We believe strongly in journalism, the First Amendment, and in writing that makes you mad and makes you think.
+But we've got a no-asshole policy and a general conduct policy (see below). Life's too short to work with assholes. The internet is a big place, assholes can go someplace else.
 
-But we've got a no-asshole policy and a general conduct policy (see below). Life's too short to work with assholes, and since there's lots of other ways for people to run an online publishing company, assholes can go someplace else.
+We also have no interest in working with publishers that dox people, direct hate or derision towards marginalized groups, or encourage or subtly encourage brigading private individuals and other publishers. 
 
 We also know that there are folks who like to read a terms of service agreement and try to stay just this side of the line on it, while still violating its spirit. Every forum moderator knows the type. That's why we have a general conduct rule; if you're that kind of person, you'll get booted. Hopefully, that's enough to keep those folks away in the first place. 
 
+That said, we don't want to ever have to kick anyone off Outpost. The goal in this Terms of Service is to be very clear about who's a good fit and who isn't. If you like to play footsie with discredited "race" science, think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in white grievance politics/alt-right light fascism, find another service. There's plenty of them. This won't be a good home for you.
+
+If you see abusive content on an Outpost-powered site, please notify us with relevant details at abuse@outpost.pub.
+
+Please be aware, however, Outpost will not engage with or be swayed by bad faith attempts to silence Outpost publishers.  Outpost will, at its discretion, ignore such attempts or actively fight them. Outpost also has no tolerance for those who threaten or harrass Outpost publishers. Outpost will use all technical and legal means necessary to protect our publishers from threats and harrassment. 
+
 That said, we have no interest in kicking anyone off Outpost.
 
-Outpost's founder started a publisher recommendation company 10 years ago and has never had to kick a site off, despite having very similar terms of service. 
+Outpost's founder started a recommendations-as-a-service company called Contextly that's been running for 10 years, and Contextly has never had to kick a site off, despite having very similar terms of service. 
 
 The goal here is to be very clear about who's a good fit and who isn't. If you like to play footsie with discredited "race" science, think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in fascism or fascism-lite, find another service. There are plenty of them. This won't be a good home for you.
 
 If you see abusive content on an Outpost-powered site, please notify us with relevant details at abuse@outpost.pub.
-
-Please be aware, however, Outpost will not engage with or be swayed by bad faith attempts to silence Outpost publishers.  Outpost will, at its discretion, ignore such attempts or actively fight them. 
-
-Outpost also has no tolerance for those who threaten or harass Outpost publishers. Outpost will use all technical and legal means necessary to protect our publishers from those who harass or threaten them. 
 
 These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. **These Terms include a mandatory arbitration provision in Section 16. If you don’t agree to these Terms, don’t use our services.**
 
@@ -44,7 +46,7 @@ These Terms govern your access to and use of the products and services we provid
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create via Outpost. Please note though that the operators of those websites may also have their own separate terms of use.
 Please read these Terms carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to be bound by all of the Terms and all other operating rules, policies, and procedures that we may publish via the Services from time to time (collectively, the “Agreement”). You also agree that we may automatically change, update, or add on to our Services, and this Agreement will apply to any changes.
 ## 1. Who’s Who
-“You” means any individual or entity using our Services. If you use our Services on behalf of another person or entity, you represent and warrant that you’re authorized to accept the Agreement on that person’s or entity’s behalf, that by using using our Services you're accepting the Agreement on behalf of that person or entity, and that if you, or that person or entity, violates the Agreement, you and that person or entity agree to be responsible to us.
+“You” means any individual or entity using our Services. If you use our Services on behalf of another person or entity, you represent and warrant that you’re authorized to accept the Agreement on that person’s or entity’s behalf, that by using our Services you're accepting the Agreement on behalf of that person or entity, and that if you, or that person or entity, violates the Agreement, you and that person or entity agree to be responsible to us.
 
 **All Outpost Services **
 
@@ -79,13 +81,13 @@ Please note that additional third-party terms and conditions may apply to Conten
 **Automatic Renewal.** To ensure uninterrupted service, recurring Paid Services are automatically renewed. This means that unless you cancel a Paid Service before the end of the applicable subscription period, it will automatically renew, and you authorize us to use any payment mechanism we have on record for you, like credit cards or PayPal, or invoice you (in which case payment is due within 15 days) to collect the then-applicable subscription fee as well as any Taxes. By default, your Paid Services will be renewed for the same interval as your original subscription period, so for example, if you purchase a one-year subscription to an Outpost plan, you’ll be charged each year for access for another 12-month period. We may charge your account up to one month before the end of the subscription period to make sure pesky billing issues don’t inadvertently disrupt your access to our Services. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
 If you are a paid subscriber to an Outpost publication, your payment to the publication will be made on a regular basis, depending on whether that subscription is monthly, annual or some other time interval. If you’ve purchased access to multiple services, you may have multiple renewal dates. You can cancel renewal of subscriptions on each individual publisher's site. Your subscription relationship is with the publisher, not Outpost, and therefore, you will need to cancel/renew/etc your subscriptions with the publication, not Outpost.
 
-You can view your renewal date(s) and manage subscriptions for an Outpost-powered sites by visiting the site and logging in with the email address you provided to the the site.
+You can view your renewal date(s) and manage subscriptions for an Outpost-powered site by visiting the site and logging in with the email address you provided to the site.
 
-**Fees and Changes.** We may change our fees at any time in accordance with these Terms and requirements under applicable law and in accordance with any contract signed with an publisher. This means that we may change our fees going forward, start charging fees for Services that were previously free, or remove or update features or functionality that were previously included in the fees. If you don’t agree with the changes, you must cancel your Paid Service.
+**Fees and Changes.** We may change our fees at any time in accordance with these Terms and requirements under applicable law and in accordance with any contract signed with a publisher. This means that we may change our fees going forward, start charging fees for Services that were previously free, or remove or update features or functionality that were previously included in the fees. If you don’t agree with the changes, you must cancel your Paid Service.
 **No-Show Policy.** We may have a “no-show policy” for some Paid Services that require your participation. For instance, this may mean that if you don’t show up or are late for a scheduled session, you’ll still be charged and won’t be entitled to a refund.
 **Refunds.** We may have a refund policy for some of our Paid Services, and we’ll also provide refunds if required by law. In all other cases, there are no refunds and all payments are final.
 ### b. Fees Collected by Website Owners
-**Fees Paid to Websites or Website Owners.** Website owners can sell items (goods, content, services, etc.), offer subscriptions for their websites at specific price points and intervals, or simply collect payments. We’re not involved in a website’s subscription details or store operations (including the quality, timing, pricing, or legality of what may or may not be included in exchange for payment, or any goods or services purchased). If you buy items or subscriptions from a website, you’re making the purchase directly from the website owner, and they’re solely responsible for the items sold. Please contact the website owner if you have any questions or complaints.
+**Fees Paid to Websites or Website Owners.** Website owners can sell items (goods, content, services, etc.), offer subscriptions for their websites at specific price points and intervals, or simply collect payments. We’re not involved in a website’s subscription details or store operations (including the quality, timing, pricing, or legality of what may or may not be included in exchange for payment, or any goods or services purchased). If you buy items or subscriptions from a website, you’re making the purchase directly from the website owner, and they are solely responsible for the items sold. Please contact the website owner if you have any questions or complaints.
 **Automatic Renewal.** Any recurring payments you make to a website owner are automatically renewed. This means that unless you or the website owner cancels your website subscription before the end of the applicable renewal period, it will automatically renew. Your recurring payments are renewed for the same interval of time as your original subscription period. For example, if you select an annually renewing website subscription, you’ll be automatically charged by the website owner once each year.
 **Cancelling Automatic Renewal of Website Subscriptions.** You can manage and cancel your website subscriptions by logging into that site with the email you used to register. In the account panel, click on the payment you want to cancel and follow the instructions. Repeat this process for each website subscription you want to cancel.
 **Refunds.** We’re not responsible for refunding fees paid to a website owner because those transactions are between website owners and their users. If you’d like to request a refund, please contact the website owner. If you have a complaint regarding a website owner, you can [contact us](https://outpost.pub).
@@ -106,23 +108,23 @@ We love hearing from you and are always looking to improve our Services. When yo
 * Will not be used to create, distribute, or enable material that is, facilitates, or operates in conjunction with, malware, spyware, adware, or other malicious programs or code;
 * Will not involve reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for the Services or any related technology that is not open source; 
 * Will not involve renting, leasing, loaning, selling, or reselling the Services or related data without our consent;
-* Will not involve pornography (Outpost does not have the financial/legal capacity at this time to handle the record-keeping requirements needed);
+* Will not involve pornography (Outpost is not anti-sex work, however it does not have the financial/legal capacity at this time to handle the record-keeping requirements needed);
 * Will not be used to threaten violence against individuals or groups;
 * Will not be used to glorify violence;
 * WWill not involve child sexual exploitation (if you try this, we'll do all we can to get you prosecuted);
 * Will not be used to threaten, harass, denigrate or encourage violence against people on the basis of ethnicity, gender, gender identity, age, religious affiliation, disability, disease, race, caste or national origin;
 * Will not be used to promote or encourage suicide or self-harm, inluding bulimia and anorexia; and
-* Will not be used to post gory media that lack news value -- and won't put those in header images when they do have news value.
+* Will not be used to post gory media that lack news value - and won't put said images in headers when they do have news value.
 
 
 
 ### b.* General Conduct Policy:
-The rules above are intended to give sites a good sense of what's appropriate on Outpost-powered sites, and what is not. They are not rules to be gamed. Outpost also has a general conduct rule: if your site engages in unjust or unreasonable conduct - even if it does not violate one of the above rules, Outpost reserves the right to terminate our service. Outpost is the sole arbiter of what violates this standard or the rules above.
+The rules above are intended to give sites a good sense of what's appropriate on Outpost-powered sites, and what is not. They are not rules to be gamed. Outpost also has a general conduct rule: if your site engages in unjust or unreasonable conduct - even if it does not violate one of the above rules, Outpost reserves the right to terminate your service. Outpost is the sole arbiter of what violates this standard or the rules above.
 
 
 ## 8. More Content Stuff
 **Data Portability**
-[Oupost.pub](https://outpost.pub/) enables you to build a membership-driven media site. Your content and posts are yours, and we make it easy to export that in a format easily imported into other publishing tools. Your email list is yours, and if you want, we'll export that in an easy-to-use format. Your relationship to  subscribers that sign-up to support your site are also yours, and you can take that information and relationship with you. We'll also help transfer over your site analytics and if you like and, to the extent possible, supporting services such as comments and content recommendations. Data analysis done by Outpost on your sites behalf may not be exportable.
+[Oupost.pub](https://outpost.pub/) enables you to build a membership-driven media site. Your content and posts are yours, and we make it easy to export that in a format easily imported into other publishing tools. Your email list is yours, and if you want, we'll export that in an easy-to-use format. Your relationship to  subscribers that sign-up to support your site are also yours, and you can take that information and relationship with you. We'll also help transfer over your site analytics and if you like and, to the extent possible, supporting services such as comments and content recommendations. Data analysis done by Outpost on your site's behalf may not be exportable.
 
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make publicly-posted and published-notification Content available to select third parties (to Google News as a news feed or to Mailgun to send emails to your subscribers, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services or to provide services.
 **Removing Content.** If you delete Content, we’ll use reasonable efforts to remove it from public view (or in the case of a private website, from view by the authorized visitors), but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.

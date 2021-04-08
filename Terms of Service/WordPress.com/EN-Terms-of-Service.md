@@ -6,9 +6,9 @@ _Last Updated: March 28, 2021_
 ## The Gist
 We (the [folks at Outpost](http://outpost.pub)) are on a mission to help indie publishers thrive, but without the compromises that come with having to please investors.
 
-Outpost is a paid service, designed to give you as much control and ownership over your publication as possible while providing excellent editorial tools freely. (as in beer or as in open source?) However, since we power your site, we ask you to be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site, or are linked to from your site (things like spam, viruses, or hate content).
+Outpost is a paid service, designed to give you as much control and ownership over your publication as possible while providing excellent editorial tools.  However, since we power your site and/or editorial tools, we ask you to be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site, or are linked to from your site (things like spam, viruses, or hate content).
 
-We love helping indie publishers, from multi-person publications knocking out daily news stories to labor-of-love personal sites. We provide high quality service to membership-driven publishers, and we want to work with quality publications of all stripes.
+We love helping indie publishers, from multi-person publications knocking out daily news stories to labor-of-love personal sites. We provide high quality service to membership-driven publishers, and we want to work with quality publications of most stripes.
 
 But there are some kinds of publications we have no interest in supporting.
 
@@ -16,21 +16,30 @@ Here's a list of the kinds of sites banned from using Outpost: Scraper sites, au
 
 Honestly, Outpost's not going to be great for those kinds of sites anyway.
 
-Outpost's founder is a former journalist, and we encourage those who dig up dirt, challenge the powerful, look to change the world for better, and make good trouble. We're also a great home for those who just want to express themselves, or speak to their communities. 
+Outpost's founder is a former journalist, and we encourage those who dig up dirt, challenge the powerful, look to change the world for better, and make good trouble. We believe strongly in journalism, the First Amendment, and in writing that makes people reconsider their beliefs and that make them think. We're also a great home for those who just want to express themselves, or speak to their communities. 
 
 But we've got a no-asshole policy and a general conduct policy (see below). Life's too short to work with assholes. The internet is a big place, assholes can go someplace else.
 
 We also have no interest in working with publishers that dox people, direct hate or derision towards marginalized groups, or encourage or subtly encourage brigading private individuals and other publishers. 
 
-We also know that there are folks who like to read a terms of service and try to stay just this side of the line on it, while still violating its spirit. Every forum moderator knows the type. That's why we have a general conduct rule; if you're that kind of person, you'll get booted summarily. 
+We also know that there are folks who like to read a terms of service agreement and try to stay just this side of the line on it, while still violating its spirit. Every forum moderator knows the type. That's why we have a general conduct rule; if you're that kind of person, you'll get booted. Hopefully, that's enough to keep those folks away in the first place. 
 
 That said, we don't want to ever have to kick anyone off Outpost. The goal in this Terms of Service is to be very clear about who's a good fit and who isn't. If you like to play footsie with discredited "race" science, think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in white grievance politics/alt-right light fascism, find another service. There's plenty of them. This won't be a good home for you.
 
 If you see abusive content on an Outpost-powered site, please notify us with relevant details at abuse@outpost.pub.
 
-Please be aware, however, Outpost will not engage with or be swayed by bad faith attempts to silence Outpost publishers.  Outpost will, at its discretion, ignore such attempts or actively fight them. Outpost also has no toleratnce for those who threaten or harrass Outpost publishers. Outpost will use all technical and legal means necessary to protect our publishers from threats and harrassment. 
+Please be aware, however, Outpost will not engage with or be swayed by bad faith attempts to silence Outpost publishers.  Outpost will, at its discretion, ignore such attempts or actively fight them. Outpost also has no tolerance for those who threaten or harrass Outpost publishers. Outpost will use all technical and legal means necessary to protect our publishers from threats and harrassment. 
+
+That said, we have no interest in kicking anyone off Outpost.
+
+Outpost's founder started a recommendations-as-a-service company called Contextly that's been running for 10 years, and Contextly has never had to kick a site off, despite having very similar terms of service. 
+
+The goal here is to be very clear about who's a good fit and who isn't. If you like to play footsie with discredited "race" science, think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in fascism or fascism-lite, find another service. There are plenty of them. This won't be a good home for you.
+
+If you see abusive content on an Outpost-powered site, please notify us with relevant details at abuse@outpost.pub.
 
 These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. **These Terms include a mandatory arbitration provision in Section 16. If you don’t agree to these Terms, don’t use our services.**
+
 We’ve built these Terms using the model created by the fine folks at Automattic, best known for making WordPress, and this version, like theirs, is available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to the original folks, [Automattic](https://automattic.com) somewhere on your website. You can grab a copy of their Terms and other legal documents on [GitHub](https://github.com/Automattic/legalmattic).
 ## Terms of Service
 These Terms govern your access to and use of the products and services we provide through or for [Outpost](https://outpost.pub) (collectively, “Services”).
@@ -70,7 +79,7 @@ Please note that additional third-party terms and conditions may apply to Conten
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all fees do not include applicable federal, provincial, state, local or other governmental sales, value-added, goods and services, harmonized or other taxes, fees, or charges (“Taxes”). You’re responsible for paying all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we’re obligated to pay or collect Taxes on the fees you’ve paid or will pay, you’re responsible for those Taxes, and we may collect payment.
 **Payment.** If your payment fails, Paid Services are otherwise not paid for or paid for on time (for example, if you contact your bank or credit card company to decline or reverse the charge of fees for Paid Services), or we suspect a payment is fraudulent, we may immediately cancel or revoke your access to Paid Services without notice to you.
 **Automatic Renewal.** To ensure uninterrupted service, recurring Paid Services are automatically renewed. This means that unless you cancel a Paid Service before the end of the applicable subscription period, it will automatically renew, and you authorize us to use any payment mechanism we have on record for you, like credit cards or PayPal, or invoice you (in which case payment is due within 15 days) to collect the then-applicable subscription fee as well as any Taxes. By default, your Paid Services will be renewed for the same interval as your original subscription period, so for example, if you purchase a one-year subscription to an Outpost plan, you’ll be charged each year for access for another 12-month period. We may charge your account up to one month before the end of the subscription period to make sure pesky billing issues don’t inadvertently disrupt your access to our Services. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
-If you are a paid subscriver to an Outpost publication, your payment to the publication will be made on a regular basis, depending on whether that subscription is monthly, annual or some other time interval. If you’ve purchased access to multiple services, you may have multiple renewal dates. You can cancel renewal of subscriptions on each individual publisher's site. Your subscription relationship is with the publisher, not Outpost, and therefore, you will need to cancel/renew/etc your subscriptions with the publication, not Outpost.
+If you are a paid subscriber to an Outpost publication, your payment to the publication will be made on a regular basis, depending on whether that subscription is monthly, annual or some other time interval. If you’ve purchased access to multiple services, you may have multiple renewal dates. You can cancel renewal of subscriptions on each individual publisher's site. Your subscription relationship is with the publisher, not Outpost, and therefore, you will need to cancel/renew/etc your subscriptions with the publication, not Outpost.
 
 You can view your renewal date(s) and manage subscriptions for an Outpost-powered site by visiting the site and logging in with the email address you provided to the site.
 
@@ -93,7 +102,7 @@ We love hearing from you and are always looking to improve our Services. When yo
 * Will not be for any unlawful purposes, to publish illegal content, or in furtherance of illegal activities;
 * Will not infringe or misappropriate the intellectual property rights of Outpost or any third party;
 * Will not overburden or interfere with our systems or impose an unreasonable or disproportionately large load on our infrastructure, as determined by us in our sole discretion;
-* Will not disclose the personal information of others;
+* Will not disclose the personal information of others without balancing the public’s need for information against potential harm or discomfort.
 * Will not be used to send spam or bulk unsolicited messages;
 * Will not interfere with, disrupt, or attack any service or network;
 * Will not be used to create, distribute, or enable material that is, facilitates, or operates in conjunction with, malware, spyware, adware, or other malicious programs or code;
@@ -103,7 +112,7 @@ We love hearing from you and are always looking to improve our Services. When yo
 * Will not be used to threaten violence against individuals or groups;
 * Will not be used to glorify violence;
 * WWill not involve child sexual exploitation (if you try this, we'll do all we can to get you prosecuted);
-* Will not be used to threaten, harass, denigrate or encourage violence against people on the basis of ethnicity, gender, gender identity, age, disability, disease, race, caste or national origin;
+* Will not be used to threaten, harass, denigrate or encourage violence against people on the basis of ethnicity, gender, gender identity, age, religious affiliation, disability, disease, race, caste or national origin;
 * Will not be used to promote or encourage suicide or self-harm, inluding bulimia and anorexia; and
 * Will not be used to post gory media that lack news value - and won't put said images in headers when they do have news value.
 
@@ -120,8 +129,8 @@ The rules above are intended to give sites a good sense of what's appropriate on
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make publicly-posted and published-notification Content available to select third parties (to Google News as a news feed or to Mailgun to send emails to your subscribers, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services or to provide services.
 **Removing Content.** If you delete Content, we’ll use reasonable efforts to remove it from public view (or in the case of a private website, from view by the authorized visitors), but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.
 **Web Traffic.** We may use a third-party service to measure your audience and usage. Outpost currently uses a third-party that does not use cookies to do this. Outpost shares this data with sites and is used to judge service levels.
-**Prohibited Uses.** Your Content and conduct must not violate the [WordPress.com User Guidelines](https://en.support.wordpress.com/user-guidelines/).
-**HTTPS.** We offer free HTTPS on all Oupost.pub-powered websites by default, including those using custom domains, via [Let’s Encrypt](https://letsencrypt.org/). By signing up and using a custom domain on WordPress.com, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
+**Prohibited Uses.** Your Content and conduct must not violate the [Outpost User Guidelines](https://outpost.pub/user-guidelines/).
+**HTTPS.** For sites hosted by Outpost, we offer free HTTPS by default, including those using custom domains, via [Let’s Encrypt](https://letsencrypt.org/). By signing up for Outpost hosting and using a custom domain, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
 
 **Attribution.** We may display attribution text or links in your website footer or toolbar, noting that your website is powered by Oupost.pub or attributing the creator of your theme, for example.
 **Email** We send emails and create mailboxes for you  associated with your Domain Name, using Mailgun.. Your use of email is subject to Mailgun’s policies, including Mailguns’s [Terms of Service](https://www.mailgun.com/terms/). Don't be a spammer. 
@@ -156,7 +165,7 @@ If we’re obligated to pay or collect Taxes on your ecommerce activities or you
 ## 9. Copyright Infringement and DMCA Policy
 As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe any Content violates your copyright, please see our [Digital Millennium Copyright Act (“DMCA”) Policy](https:/outpost.pub/dmca-notice/) and send us a notice at dmcanotice@outpost.pub.
 ## 10. Intellectual Property
-The Agreement doesn’t transfer any Outpost or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Oupost and you) solely with Outpost. Outpost does reserve the right to name your site as a client and display your logo on its site. Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Oupost or third-party trademarks.
+The Agreement doesn’t transfer any Outpost or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Outpost and you) solely with Outpost. Outpost does reserve the right to name your site as a client and display your logo on its site. Other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Outpost or third-party trademarks.
 ## 11. Third-Party Services
 While using the Services, you may enable, use, or purchase services, products, software, embeds, or applications (like themes, extensions, plugins, or blocks) developed by a third party or yourself (“Third-Party Services”).
 If you use any Third-Party Services, you understand that:

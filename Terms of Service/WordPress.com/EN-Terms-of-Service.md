@@ -6,27 +6,27 @@ _Last Updated: March 28, 2021_
 ## The Gist
 We (the [folks at Outpost](http://outpost.pub)) are on a mission to help indie publishers thrive, but without the compromises that come with having to please investors.
 
-Outpost is a paid service, designed to give you as much control and ownership over your publication as possible while providing excellent editorial tools.  However, since we power your site and/or editorial tools, we ask you to be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site, or are linked to from your site (things like spam, viruses, or hate content).
+Outpost is a paid service, designed to give you as much control and ownership over your publication as possible while providing excellent editorial tools.  However, since we power some of your editorial tools and some sites' websits, we ask you to be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site, or are linked to from your site (things like spam, viruses, or hate content).
 
-We love helping indie publishers, from multi-person publications knocking out daily news stories to labor-of-love personal sites. We provide high quality service to membership-driven publishers, and we want to work with quality publications of most stripes.
+We love helping indie publishers, from multi-person publications knocking out daily news stories to labor-of-love personal sites. We provide high-quality service to membership-driven publishers, and we want to work with quality publications of most stripes.
 
 But there are some kinds of publications we have no interest in supporting.
 
-Here's a list of the kinds of sites banned from using Outpost: Scraper sites, automated blogs, SEO blogs that are focussed on manipulating Google, affiliate marketing blogs promoting get-rich schemes or unproven health-supplements, and sites promoting pirated intellectual property or trafficking in stolen passwords. 
+Here's a list of the kinds of sites banned from using Outpost: Scraper sites, automated blogs, SEO blogs that are focussed on manipulating Google, affiliate marketing blogs promoting get-rich schemes or unproven health supplements, and sites promoting pirated intellectual property or trafficking in stolen passwords. 
 
 Honestly, Outpost's not going to be great for those kinds of sites anyway.
 
 Outpost's founder is a former journalist, and we encourage those who dig up dirt, challenge the powerful, look to change the world for better, and make good trouble. We believe strongly in journalism, the First Amendment, and in writing that makes people reconsider their beliefs and that make them think. We're also a great home for those who just want to express themselves, or speak to their communities. 
 
-But we've got a no-asshole policy and a general conduct policy (see below). Life's too short to work with assholes. The internet is a big place, assholes can go someplace else.
+But we've got a no-asshole policy and a general conduct policy (see below). Life's too short to work with assholes. The internet is a big place — assholes can go someplace else.
 
 We also have no interest in working with publishers that dox people, direct hate or derision towards marginalized groups, or encourage or subtly encourage brigading private individuals and other publishers. 
 
 We also know that there are folks who like to read a terms of service agreement and try to stay just this side of the line on it, while still violating its spirit. Every forum moderator knows the type. That's why we have a general conduct rule; if you're that kind of person, you'll get booted. Hopefully, that's enough to keep those folks away in the first place. 
 
-That said, we don't want to ever have to kick anyone off Outpost. The goal in this Terms of Service is to be very clear about who's a good fit and who isn't. If you like to play footsie with discredited "race" science, think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in white grievance politics/alt-right light fascism, find another service. There's plenty of them. This won't be a good home for you.
+That said, we don't want to ever have to kick anyone off Outpost. The goal in this Terms of Service is to be very clear about who's a good fit and who isn't. If you like think it's clever to put up pictures of trans people without their consent and claim you are protecting lesbians, or traffic in fascism or ultra-nationalism, find another service. There's plenty of them. This won't be a good home for you.
 
-If you see abusive content on an Outpost-powered site, please notify us with relevant details at abuse@outpost.pub.
+If you do see abusive content on an Outpost-powered site, please notify us with relevant details at abuse@outpost.pub.
 
 Please be aware, however, Outpost will not engage with or be swayed by bad faith attempts to silence Outpost publishers.  Outpost will, at its discretion, ignore such attempts or actively fight them. Outpost also has no tolerance for those who threaten or harrass Outpost publishers. Outpost will use all technical and legal means necessary to protect our publishers from threats and harrassment. 
 
@@ -124,7 +124,7 @@ The rules above are intended to give sites a good sense of what's appropriate on
 
 ## 8. More Content Stuff
 **Data Portability**
-[Oupost.pub](https://outpost.pub/) enables you to build a membership-driven media site. Your content and posts are yours, and we make it easy to export that in a format easily imported into other publishing tools. Your email list is yours, and if you want, we'll export that in an easy-to-use format. Your relationship to  subscribers that sign-up to support your site are also yours, and you can take that information and relationship with you. We'll also help transfer over your site analytics and if you like and, to the extent possible, supporting services such as comments and content recommendations. Data analysis done by Outpost on your site's behalf may not be exportable.
+[Oupost.pub](https://outpost.pub/) enables you to build a membership-driven media site. Your content and posts are yours, and we and Ghost make it easy to export that in a format easily imported into other publishing tools. Your email list is yours, and if you want, we'll export that in an easy-to-use format. Your relationship to subscribers that sign-up to support your site is also yours, and you can take that information and relationship with you. We'll also help transfer over your site analytics and if you like and, to the extent possible, supporting services such as comments and content recommendations. Data analysis done by Outpost on your site's behalf may not be exportable.
 
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make publicly-posted and published-notification Content available to select third parties (to Google News as a news feed or to Mailgun to send emails to your subscribers, for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services or to provide services.
 **Removing Content.** If you delete Content, we’ll use reasonable efforts to remove it from public view (or in the case of a private website, from view by the authorized visitors), but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.
@@ -133,8 +133,8 @@ The rules above are intended to give sites a good sense of what's appropriate on
 **HTTPS.** For sites hosted by Outpost, we offer free HTTPS by default, including those using custom domains, via [Let’s Encrypt](https://letsencrypt.org/). By signing up for Outpost hosting and using a custom domain, you authorize us to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
 
 **Attribution.** We may display attribution text or links in your website footer or toolbar, noting that your website is powered by Oupost.pub or attributing the creator of your theme, for example.
-**Email** We send emails and create mailboxes for you  associated with your Domain Name, using Mailgun.. Your use of email is subject to Mailgun’s policies, including Mailguns’s [Terms of Service](https://www.mailgun.com/terms/). Don't be a spammer. 
-**DNS Services.** We work with third-party Domain Name Service providers to provide domain name services, such as making sure your emails get sent from your domain and that your website loads. You'll need to change your website's DNS servers to point to the service we contract with. You remain responsible for paying for your domain name and making sure it does not expire, as we are not a domain name reseller.
+**Email** We send emails and create mailboxes for you associated with your Domain Name, using Mailgun.. Your use of these email is subject to Mailgun’s policies, including Mailguns’s [Terms of Service](https://www.mailgun.com/terms/). Don't be a spammer. 
+**DNS Services.** We sometimes work with third-party Domain Name Service providers to provide domain name services, such as making sure your emails get sent from your domain and that your website loads. You'll need to change your website's DNS servers to point to the service we contract with. You remain responsible for paying for your domain name and making sure it does not expire, as we are not a domain name reseller.
 
 
 **Your Relationships with Your Subscribers**
@@ -143,7 +143,7 @@ The rules above are intended to give sites a good sense of what's appropriate on
 * You must accurately communicate transaction details; set expectations appropriately; and fulfill all promises, representations, or warranties you’ve made. For example, if you’d like to offer subscribers a new post each week for contributing to your site, but aren’t sure if you’ll be able to post that frequently, you should be clear that weekly posts are a goal and not a guarantee.
 * You’re responsible for the nature and quality of the products or services you provide, and for delivery, support, refunds, returns, providing any appropriate warnings and for any other ancillary services you provide to your customers.
 * You’re responsible for resolving all support questions, comments, and complaints, including chargebacks and pricing questions. You must provide contact information so customers can contact you with questions or complaints.
-* You must maintain a fair return, refund, cancellation, or adjustment policy, and clearly explain how customers can request a refund.
+* You must maintain a fair return, refund, cancellation, or adjustment policy, and clearly explain how customers can request a refund, if refunds are offered.
 * If you believe that a transaction may be erroneous or suspicious, you should research the transaction and, if necessary, contact your customer before fulfilling or completing the transaction.
 * If you have transactions with individuals (i.e., consumers), you specifically agree to provide consumer disclosures required by law, and to not engage in unfair, deceptive, or abusive acts or practices.
 * You’re financially liable for disputes (including chargebacks), refunds, reversals, or fines that arise from your subscription and ecommerce services.
